@@ -1,6 +1,6 @@
 # fibonacci series
 
-a=int(input("Enter a number"))
+n=int(input("Enter a number"))
 
 a=0
 b=1
